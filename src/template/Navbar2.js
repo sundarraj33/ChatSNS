@@ -1,8 +1,8 @@
 const Navbar2 = ()=>{
     return(
         <>
-            <div className="navbar2 h-80 border-2 border-red-300">
-
+            <div className="navbar2 h-5/6 border-2 border-red-300" >
+                
             </div>
         </>
     )
