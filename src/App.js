@@ -1,13 +1,13 @@
 import './App.css';
 import './input.css';
 import './output.css';
-import navbar from './template/navbar';
 import Navbar1 from './template/Navbar1';
+import Main from './template/Main';
 function App() {
   return (
-    <>
-    <navbar/>
+    <>    
     <Navbar1/>
+    <Main />
     </>
   );
 }
