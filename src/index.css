@@ -3,3 +3,8 @@
 body{
   font-family: "Rubik", sans-serif;
 }
+
+.main-navbar ul{
+  color: #1cf4ac;
+  padding: 5px;
+}
