@@ -17,10 +17,24 @@ const Main = ()=>{
             <div className="cardbox">
                 <div className="card box1 ">
                     <div className="imageset">
-
+                        <img src="">    </img>
                     </div>
                     <div className="syntex">
+                        <div className="first_links">
 
+                        </div>
+                        <div className="card-header">
+
+                        </div>
+                        <div className="card-main">
+
+                        </div>
+                        <div className="card-footer">
+                            <div className="card-footer-right"></div>
+                            <div className="card-footer-right">
+                                
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>                
