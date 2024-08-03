@@ -78,9 +78,9 @@ const Main = ()=>{
                     </div>
                 </div>
 
-                {/* <div className="card box1 bg-card_bg border-card_bg my-6 border-2 rounded-md h-auto flex flex-row w-full">
+                <div className="card box1 bg-card_bg border-card_bg my-6 border-2 rounded-md h-auto flex flex-row w-full">
                     <div className="imageset p-4">
-                        <img src="https://www.cio.com/wp-content/uploads/2024/06/data-analytics-thinkstock-100577221-orig-1.jpg?resize=1024%2C1024&quality=50&strip=all" className="h-80 w-72 rounded-lg w-full" style={{height:"400px"}}></img>
+                        <img src="https://www.cio.com/wp-content/uploads/2024/06/data-analytics-thinkstock-100577221-orig-1.jpg?resize=1024%2C1024&quality=50&strip=all" className="h-80rounded-lg" style={{height:"450px","width":"550px"}}></img>
                     </div>
                     <div className="syntex flex flex-col w-full mx-5 my-5 p-5 h-ful">
                         <div className="first_links">
@@ -106,7 +106,7 @@ const Main = ()=>{
                             </div>
                         </div>
                     </div>
-                </div> */}
+                </div>
             </div>                
             </div>
         </main>
