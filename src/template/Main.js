@@ -2,9 +2,9 @@ const Main = ()=>{
     return(
         <>
         <main style={{backgroundColor:'#04151d',height:'100%'}}>
-            <div className="container mx-auto ">
+            <div className="container mx-auto lg:container">
                 <div className="main-navbar justify-between">                
-                    <ul className="container flex flex-row justify-between text-1xl">  
+                    <ul className="container flex flex-row justify-between text-1xl lg:container ">  
                         <li className="p-1 my-3 text-xl">Tags:</li>                      
                         <li className="rounded-xl border-2 border-greens p-1 my-3 hover:bg-greens hover:text-black">ChatGPT</li>
                         <li className="rounded-lg border-2 border-greens p-1 my-3 hover:bg-greens hover:text-black">Brainstorming</li>
@@ -37,9 +37,9 @@ const Main = ()=>{
                                 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBZprHbNP1Aw_KUC6zFd5mj-iPu5SGZrQoL9hfxire8_JYHlGiDDM9TxRqrAI_Td8_Mtc&usqp=CAU' classname='rounded-md mx-4 my-4' style={{height:'150px','borderRadius':'50%'}}></img>
                             </div>
                             <div className="card-footer-right mx-6 my-3">
-                                <p className="text-white  font-serif text-2xl">Mr.Bean</p>
-                                <p className="text-white  font-serif  text-2xl">Bean.com</p>
-                                <p className="text-sky-500  font-serif  text-2xl">July 13,2023</p>
+                                <p className="text-white   text-2xl">Mr.Bean</p>
+                                <p className="text-white    text-2xl">Bean.com</p>
+                                <p className="text-sky-500    text-2xl">July 13,2023</p>
                             </div>
                         </div>
                     </div>
@@ -70,9 +70,9 @@ const Main = ()=>{
                                 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAWLJWkPZpgIh_aOjpVS3z69p2HMEwrQb0lXX86VPoU9f-HfIH0jvr17xjfmubEkayqTU&usqp=CAU' classname='rounded-md mx-4 my-4' style={{height:'150px','borderRadius':'50%',width:'150px'}}></img>
                             </div>
                             <div className="card-footer-right mx-6 my-3">
-                                <p className="text-white  font-serif text-2xl">Mr.Bean</p>
-                                <p className="text-white  font-serif  text-2xl">Bean.com</p>
-                                <p className="text-sky-500  font-serif  text-2xl">July 13,2023</p>
+                                <p className="text-white   text-2xl">Mr.Bean</p>
+                                <p className="text-white    text-2xl">Bean.com</p>
+                                <p className="text-sky-500    text-2xl">July 13,2023</p>
                             </div>
                         </div>
                     </div>
@@ -100,9 +100,9 @@ const Main = ()=>{
                                 <img src='https://www.eliteveterinarystaff.co.uk/wp-content/uploads/2023/02/Olivia.jpg' classname='rounded-md mx-4 my-4' style={{height:'150px','width':'150px','borderRadius':'50%'}}></img>
                             </div>
                             <div className="card-footer-right mx-6 my-3">
-                                <p className="text-white  font-serif text-2xl">Mr.Bean</p>
-                                <p className="text-white  font-serif  text-2xl">Bean.com</p>
-                                <p className="text-sky-500  font-serif  text-2xl">July 13,2023</p>
+                                <p className="text-white   text-2xl">Mr.Bean</p>
+                                <p className="text-white    text-2xl">Bean.com</p>
+                                <p className="text-sky-500    text-2xl">July 13,2023</p>
                             </div>
                         </div>
                     </div>
