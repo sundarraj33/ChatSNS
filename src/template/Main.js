@@ -80,7 +80,7 @@ const Main = ()=>{
 
                 <div className="card box1 bg-card_bg border-card_bg my-6 border-2 rounded-md h-auto flex flex-row w-full">
                     <div className="imageset p-4">
-                        <img src="https://www.cio.com/wp-content/uploads/2024/06/data-analytics-thinkstock-100577221-orig-1.jpg?resize=1024%2C1024&quality=50&strip=all" className="h-80rounded-lg" style={{height:"450px","width":"550px"}}></img>
+                        <img src="https://cdn.prod.website-files.com/64777aba152490066806f29a/65d8b4032a4b06d38cf94f79_AdobeStock_399473340%20(1)-p-1600.jpeg" className="h-80rounded-lg" style={{height:"450px","width":"550px"}}></img>
                     </div>
                     <div className="syntex flex flex-col w-full mx-5 my-5 p-5 h-ful">
                         <div className="first_links">
@@ -97,7 +97,7 @@ const Main = ()=>{
                         </div>
                         <div className="card-footer mx-4 my-1 flex flex-row">
                             <div className="card-footer-right">
-                                <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBZprHbNP1Aw_KUC6zFd5mj-iPu5SGZrQoL9hfxire8_JYHlGiDDM9TxRqrAI_Td8_Mtc&usqp=CAU' classname='rounded-md mx-4 my-4' style={{height:'150px','borderRadius':'50%'}}></img>
+                                <img src='https://www.eliteveterinarystaff.co.uk/wp-content/uploads/2023/02/Olivia.jpg' classname='rounded-md mx-4 my-4' style={{height:'150px','width':'150px','borderRadius':'50%'}}></img>
                             </div>
                             <div className="card-footer-right mx-6 my-3">
                                 <p className="text-white  font-serif text-2xl">Mr.Bean</p>
